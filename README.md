@@ -6,7 +6,7 @@
 
 3. Properties of sets -
     i. Sets do not repeat values
-    ii. Sets are unordered,mutuable,unindexed
+    ii. Sets are unordered,mutuable but the elements inside a set must be immutable,unindexed
 
 4. Sets methods 
 5. Sets operations ie union,intersection etc.
